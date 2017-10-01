@@ -50,5 +50,9 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This application requires permission to track your location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This application requires permission to track your location.</string>
 </dict>
 </plist>
