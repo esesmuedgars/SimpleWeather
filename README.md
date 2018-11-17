@@ -1,4 +1,4 @@
-# Weather application
+# Simple Weather application
 ###### based on [Devslopes iOS development course](https://www.udemy.com/devslopes-ios10/learn/v4/content)
 
 * Using OpenWeatherMap [Current weather data](https://openweathermap.org/current) and [16 day / daily forecast](https://openweathermap.org/forecast16) APIs;
